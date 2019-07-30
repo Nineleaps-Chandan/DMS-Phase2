@@ -1,0 +1,6 @@
+#bottom_link {
+  position: absolute; /* added */
+  bottom: 0; /* added */
+  left: 40;
+  color: "secondary";
+}
